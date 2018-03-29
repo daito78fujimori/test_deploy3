@@ -1,0 +1,5 @@
+---
+domain: test-deploy3.the-staging.tech
+ssl: true
+document_root: /
+...
